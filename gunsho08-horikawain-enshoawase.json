@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/horikawain-enshoawase",
  "yomi": "ほりかわいんけそうぶみあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（艶書合）",
+  "era": "康和4年（1102）閏5月",
+  "author": "堀河天皇",
+  "desc": "堀河天皇の内裏で、殿上人に宮仕えの女房のもとへ懸想の歌を贈らせ、女房が返歌をした艶書合。藤原公実・源俊頼らの歌に、甲斐・上総・紀伊らが返す。"
+ },
  "editions": [
   {
    "pid": "1879502",
